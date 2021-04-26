@@ -12,3 +12,8 @@ As the product manager, what will be the metrics that you will measure your succ
      - The new feature’s general vision.
      - The new feature’s metrics.
      - The new feature's KPIs.
+
+##Screensharing Feature
+<p align="center">
+<img src="https://github.com/yarahisham/Facebook-CaseStudy_Product-Metrics-and-KPIs/blob/master/Images/Screen%20Shot%202021-04-27%20at%201.03.20%20AM.jpg" alt="alt text" width="500" height="200" >
+</p>
