@@ -19,5 +19,5 @@ As the product manager, what will be the metrics that you will measure your succ
 </p>
 
 <p align="center">
-<img src="https://github.com/yarahisham/Facebook-CaseStudy_Product-Metrics-and-KPIs/blob/master/Images/Screen%20Shot%202021-04-27%20at%201.03.42%20AM.jpg" alt="alt text" width="500" height="300" >
+<img src="https://github.com/yarahisham/Facebook-CaseStudy_Product-Metrics-and-KPIs/blob/master/Images/Screen%20Shot%202021-04-27%20at%201.03.42%20AM.jpg" alt="alt text" width="400" height="300" >
 </p>
