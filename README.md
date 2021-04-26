@@ -6,12 +6,6 @@ As the product manager, what will be the metrics that you will measure your succ
 <p align="center">
 <img src="https://github.com/yarahisham/Facebook-CaseStudy_Product-Metrics-and-KPIs/blob/master/Images/Screen%20Shot%202021-04-27%20at%201.00.25%20AM.jpg" alt="alt text" width="700" height="300" >
 </p>
-  
-## Description
-  - The report include the following points:
-     - The new feature’s general vision.
-     - The new feature’s metrics.
-     - The new feature's KPIs.
 
 ## Screensharing Feature
 <p align="center">
@@ -21,3 +15,9 @@ As the product manager, what will be the metrics that you will measure your succ
 <p align="center">
 <img src="https://github.com/yarahisham/Facebook-CaseStudy_Product-Metrics-and-KPIs/blob/master/Images/Screen%20Shot%202021-04-27%20at%201.03.42%20AM.jpg" alt="alt text" width="300" height="300" >
 </p>
+
+## Description
+  - The report include the following points:
+     - The new feature’s general vision.
+     - The new feature’s metrics.
+     - The new feature's KPIs.
