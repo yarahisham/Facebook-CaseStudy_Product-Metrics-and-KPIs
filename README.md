@@ -23,7 +23,6 @@ As the product manager, what will be the metrics that you will measure your succ
      - The new feature's KPIs.
 
 ## Knowledge Officer Rubric
-## Screensharing Feature
 <p align="center">
 <img src="https://github.com/yarahisham/Facebook-CaseStudy_Product-Metrics-and-KPIs/blob/master/Images/Screen%20Shot%202021-04-27%20at%201.28.40%20AM.jpg" alt="alt text" width="700" height="400" >
 </p>
