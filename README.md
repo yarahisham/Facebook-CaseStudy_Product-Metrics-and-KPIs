@@ -17,7 +17,7 @@ As the product manager, what will be the metrics that you will measure your succ
 </p>
 
 ## Description
-  - The report include the following points:
+  - The report includes the following points:
      - The new feature’s general vision.
      - The new feature’s metrics.
      - The new feature's KPIs.
